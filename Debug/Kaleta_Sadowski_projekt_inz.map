@@ -1,0 +1,624 @@
+Archive member included to satisfy reference by file (symbol)
+
+e:/programy/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+                              E:/Programy/Microchip Studio/7.0/Packs/Atmel/ATtiny_DFP/1.9.337/gcc/dev/attiny3217/avrxmega3/crtattiny3217.o (exit)
+e:/programy/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_clear_bss.o)
+                              Debouncer.o (__do_clear_bss)
+
+Allocating common symbols
+Common symbol       size              file
+
+button2_down        0x1               Debouncer.o
+VAR_TransmitterBufor
+                    0x20              Debouncer.o
+button1_down        0x1               Debouncer.o
+VAR_ReceiverBufor   0x20              Debouncer.o
+button0_down        0x1               Debouncer.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 E:/Programy/Microchip Studio/7.0/Packs/Atmel/ATtiny_DFP/1.9.337/gcc/dev/attiny3217/avrxmega3/crtattiny3217.o
+ .bss           0x00000000        0x0 E:/Programy/Microchip Studio/7.0/Packs/Atmel/ATtiny_DFP/1.9.337/gcc/dev/attiny3217/avrxmega3/crtattiny3217.o
+ .data          0x00000000        0x0 Clk_INIT_20MHz.o
+ .bss           0x00000000        0x0 Clk_INIT_20MHz.o
+ .text          0x00000000        0x0 Debouncer.o
+ .data          0x00000000        0x0 Debouncer.o
+ .bss           0x00000000        0x0 Debouncer.o
+ .text          0x00000000        0x0 LED_Sterowanie.o
+ .data          0x00000000        0x0 LED_Sterowanie.o
+ .bss           0x00000000        0x0 LED_Sterowanie.o
+ .text          0x00000000        0x0 main.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .bss.VAR_Flag_AnalizeCommand
+                0x00000000        0x1 main.o
+ .text          0x00000000        0x0 Timers.o
+ .data          0x00000000        0x0 Timers.o
+ .bss           0x00000000        0x0 Timers.o
+ .text          0x00000000        0x0 USART_data.o
+ .data          0x00000000        0x0 USART_data.o
+ .bss           0x00000000        0x0 USART_data.o
+ .text          0x00000000        0x0 e:/programy/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 e:/programy/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 e:/programy/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 e:/programy/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 e:/programy/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 e:/programy/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 e:/programy/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 e:/programy/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 e:/programy/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 e:/programy/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 e:/programy/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 e:/programy/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 e:/programy/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 e:/programy/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 e:/programy/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 e:/programy/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 e:/programy/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 e:/programy/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 e:/programy/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 e:/programy/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_clear_bss.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00008000         xr
+data             0x00803800         0x00000800         rw !x
+eeprom           0x00810000         0x00000100         rw !x
+fuse             0x00820000         0x0000000a         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x803800
+                0x00008000                __RODATA_PM_OFFSET__ = 0x8000
+LOAD E:/Programy/Microchip Studio/7.0/Packs/Atmel/ATtiny_DFP/1.9.337/gcc/dev/attiny3217/avrxmega3/crtattiny3217.o
+LOAD Clk_INIT_20MHz.o
+LOAD Debouncer.o
+LOAD LED_Sterowanie.o
+LOAD main.o
+LOAD Timers.o
+LOAD USART_data.o
+START GROUP
+LOAD e:/programy/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a
+END GROUP
+START GROUP
+LOAD e:/programy/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a
+LOAD e:/programy/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libm.a
+LOAD e:/programy/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3\libc.a
+LOAD E:/Programy/Microchip Studio/7.0/Packs/Atmel/ATtiny_DFP/1.9.337/gcc/dev/attiny3217/avrxmega3\libattiny3217.a
+END GROUP
+                [0x00000000]                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00803800]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x802000
+                [0x00008000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x100000
+                [0x00000800]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x00000100]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x0000000a]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+                0x00008000                __RODATA_PM_OFFSET__ = DEFINED (__RODATA_PM_OFFSET__)?__RODATA_PM_OFFSET__:0x8000
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000      0xd84
+ *(.vectors)
+ .vectors       0x00000000       0x7c E:/Programy/Microchip Studio/7.0/Packs/Atmel/ATtiny_DFP/1.9.337/gcc/dev/attiny3217/avrxmega3/crtattiny3217.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x0000007c                . = ALIGN (0x2)
+                0x0000007c                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000007c        0x0 linker stubs
+ *(.trampolines*)
+                0x0000007c                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x0000007c                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000007c                __ctors_start = .
+ *(.ctors)
+                0x0000007c                __ctors_end = .
+                0x0000007c                __dtors_start = .
+ *(.dtors)
+                0x0000007c                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000007c        0x0 E:/Programy/Microchip Studio/7.0/Packs/Atmel/ATtiny_DFP/1.9.337/gcc/dev/attiny3217/avrxmega3/crtattiny3217.o
+                0x0000007c                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000007c        0xc E:/Programy/Microchip Studio/7.0/Packs/Atmel/ATtiny_DFP/1.9.337/gcc/dev/attiny3217/avrxmega3/crtattiny3217.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000088       0x10 e:/programy/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_clear_bss.o)
+                0x00000088                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000098        0x8 E:/Programy/Microchip Studio/7.0/Packs/Atmel/ATtiny_DFP/1.9.337/gcc/dev/attiny3217/avrxmega3/crtattiny3217.o
+ *(.init9)
+ *(.text)
+ .text          0x000000a0        0x4 E:/Programy/Microchip Studio/7.0/Packs/Atmel/ATtiny_DFP/1.9.337/gcc/dev/attiny3217/avrxmega3/crtattiny3217.o
+                0x000000a0                __vector_22
+                0x000000a0                __vector_1
+                0x000000a0                __vector_24
+                0x000000a0                __vector_12
+                0x000000a0                __bad_interrupt
+                0x000000a0                __vector_6
+                0x000000a0                __vector_3
+                0x000000a0                __vector_23
+                0x000000a0                __vector_30
+                0x000000a0                __vector_25
+                0x000000a0                __vector_11
+                0x000000a0                __vector_13
+                0x000000a0                __vector_17
+                0x000000a0                __vector_19
+                0x000000a0                __vector_5
+                0x000000a0                __vector_4
+                0x000000a0                __vector_9
+                0x000000a0                __vector_2
+                0x000000a0                __vector_21
+                0x000000a0                __vector_15
+                0x000000a0                __vector_29
+                0x000000a0                __vector_26
+                0x000000a0                __vector_14
+                0x000000a0                __vector_10
+                0x000000a0                __vector_16
+                0x000000a0                __vector_18
+                0x000000a0                __vector_20
+ .text          0x000000a4       0x1e Clk_INIT_20MHz.o
+                0x000000a4                Fun_CLK_Init
+                0x000000c2                . = ALIGN (0x2)
+ *(.text.*)
+ .text.debounce0
+                0x000000c2       0x34 Debouncer.o
+                0x000000c2                debounce0
+ .text.debounce1
+                0x000000f6       0x34 Debouncer.o
+                0x000000f6                debounce1
+ .text.debounce2
+                0x0000012a       0x34 Debouncer.o
+                0x0000012a                debounce2
+ .text.Fun_LED_Init
+                0x0000015e       0x32 LED_Sterowanie.o
+                0x0000015e                Fun_LED_Init
+ .text.Fun_CoilsChecking
+                0x00000190      0x81e LED_Sterowanie.o
+                0x00000190                Fun_CoilsChecking
+ .text.main     0x000009ae      0x17a main.o
+                0x000009ae                main
+ .text.__vector_8
+                0x00000b28       0xe6 main.o
+                0x00000b28                __vector_8
+ .text.__vector_7
+                0x00000c0e       0x44 main.o
+                0x00000c0e                __vector_7
+ .text.__vector_28
+                0x00000c52       0x54 main.o
+                0x00000c52                __vector_28
+ .text.__vector_27
+                0x00000ca6       0x4e main.o
+                0x00000ca6                __vector_27
+ .text.Fun_TCA0_Init
+                0x00000cf4       0x16 Timers.o
+                0x00000cf4                Fun_TCA0_Init
+ .text.Fun_PIT_Init
+                0x00000d0a       0x10 Timers.o
+                0x00000d0a                Fun_PIT_Init
+ .text.Fun_USART_Init
+                0x00000d1a       0x26 USART_data.o
+                0x00000d1a                Fun_USART_Init
+ .text.USART0_sendFrame
+                0x00000d40       0x40 USART_data.o
+                0x00000d40                USART0_sendFrame
+                0x00000d80                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000d80        0x0 e:/programy/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+                0x00000d80                _exit
+                0x00000d80                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000d80        0x4 e:/programy/microchip studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00000d84                _etext = .
+
+.rodata
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.r*)
+
+.data           0x00803800        0x0 load address 0x00000d84
+                [!provide]                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ *(.gnu.linkonce.d*)
+                0x00803800                . = ALIGN (0x2)
+                0x00803800                _edata = .
+                [!provide]                PROVIDE (__data_end, .)
+
+.bss            0x00803800       0x5a
+                0x00803800                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.count.3995
+                0x00803800        0x1 Debouncer.o
+ .bss.button_state.3996
+                0x00803801        0x1 Debouncer.o
+ .bss.count.3987
+                0x00803802        0x1 Debouncer.o
+ .bss.button_state.3988
+                0x00803803        0x1 Debouncer.o
+ .bss.count.3979
+                0x00803804        0x1 Debouncer.o
+ .bss.button_state.3980
+                0x00803805        0x1 Debouncer.o
+ .bss.LocVAR_a  0x00803806        0x1 main.o
+                0x00803806                LocVAR_a
+ .bss.LocVAR_z  0x00803807        0x1 main.o
+                0x00803807                LocVAR_z
+ .bss.LocVAR_y  0x00803808        0x2 main.o
+                0x00803808                LocVAR_y
+ .bss.LocVAR_x  0x0080380a        0x2 main.o
+                0x0080380a                LocVAR_x
+ .bss.VAR_start
+                0x0080380c        0x1 main.o
+                0x0080380c                VAR_start
+ .bss.VAR_button_pause
+                0x0080380d        0x1 main.o
+                0x0080380d                VAR_button_pause
+ .bss.VAR_Flag_TCA_500ms
+                0x0080380e        0x1 main.o
+                0x0080380e                VAR_Flag_TCA_500ms
+ .bss.VAR_Flag_TCA_200ms
+                0x0080380f        0x1 main.o
+                0x0080380f                VAR_Flag_TCA_200ms
+ .bss.VAR_Flag_PIT1
+                0x00803810        0x1 main.o
+                0x00803810                VAR_Flag_PIT1
+ .bss.VAR_Flag_PIT0
+                0x00803811        0x1 main.o
+                0x00803811                VAR_Flag_PIT0
+ .bss.VAR_Flag_ReceivedAnswer
+                0x00803812        0x1 main.o
+                0x00803812                VAR_Flag_ReceivedAnswer
+ .bss.VAR_ModBus_BytesNumExpected
+                0x00803813        0x1 main.o
+                0x00803813                VAR_ModBus_BytesNumExpected
+ .bss.VAR_LengthOfCMD
+                0x00803814        0x1 main.o
+                0x00803814                VAR_LengthOfCMD
+ .bss.VAR_TransmitterBuforIndex
+                0x00803815        0x1 main.o
+                0x00803815                VAR_TransmitterBuforIndex
+ .bss.VAR_ReceiverBuforIndex
+                0x00803816        0x1 main.o
+                0x00803816                VAR_ReceiverBuforIndex
+ *(COMMON)
+ COMMON         0x00803817       0x43 Debouncer.o
+                0x00803817                button2_down
+                0x00803818                VAR_TransmitterBufor
+                0x00803838                button1_down
+                0x00803839                VAR_ReceiverBufor
+                0x00803859                button0_down
+                0x0080385a                PROVIDE (__bss_end, .)
+                0x00000d84                __data_load_start = LOADADDR (.data)
+                0x00000d84                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0080385a        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x0080385a                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 Debouncer.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 LED_Sterowanie.o
+ .comment       0x00000030       0x31 main.o
+ .comment       0x00000030       0x31 Timers.o
+ .comment       0x00000030       0x31 USART_data.o
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 E:/Programy/Microchip Studio/7.0/Packs/Atmel/ATtiny_DFP/1.9.337/gcc/dev/attiny3217/avrxmega3/crtattiny3217.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x108
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 Clk_INIT_20MHz.o
+ .debug_aranges
+                0x00000020       0x30 Debouncer.o
+ .debug_aranges
+                0x00000050       0x28 LED_Sterowanie.o
+ .debug_aranges
+                0x00000078       0x40 main.o
+ .debug_aranges
+                0x000000b8       0x28 Timers.o
+ .debug_aranges
+                0x000000e0       0x28 USART_data.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x47e6
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x1c4d E:/Programy/Microchip Studio/7.0/Packs/Atmel/ATtiny_DFP/1.9.337/gcc/dev/attiny3217/avrxmega3/crtattiny3217.o
+ .debug_info    0x00001c4d       0x93 Clk_INIT_20MHz.o
+ .debug_info    0x00001ce0      0x31f Debouncer.o
+ .debug_info    0x00001fff      0x737 LED_Sterowanie.o
+ .debug_info    0x00002736      0xfe4 main.o
+ .debug_info    0x0000371a      0xb04 Timers.o
+ .debug_info    0x0000421e      0x5c8 USART_data.o
+
+.debug_abbrev   0x00000000     0x205e
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000     0x1ac8 E:/Programy/Microchip Studio/7.0/Packs/Atmel/ATtiny_DFP/1.9.337/gcc/dev/attiny3217/avrxmega3/crtattiny3217.o
+ .debug_abbrev  0x00001ac8       0x14 Clk_INIT_20MHz.o
+ .debug_abbrev  0x00001adc       0x9b Debouncer.o
+ .debug_abbrev  0x00001b77      0x105 LED_Sterowanie.o
+ .debug_abbrev  0x00001c7c      0x182 main.o
+ .debug_abbrev  0x00001dfe      0x113 Timers.o
+ .debug_abbrev  0x00001f11      0x14d USART_data.o
+
+.debug_line     0x00000000     0x125c
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x151 E:/Programy/Microchip Studio/7.0/Packs/Atmel/ATtiny_DFP/1.9.337/gcc/dev/attiny3217/avrxmega3/crtattiny3217.o
+ .debug_line    0x00000151       0x95 Clk_INIT_20MHz.o
+ .debug_line    0x000001e6      0x173 Debouncer.o
+ .debug_line    0x00000359      0x8d8 LED_Sterowanie.o
+ .debug_line    0x00000c31      0x365 main.o
+ .debug_line    0x00000f96      0x12c Timers.o
+ .debug_line    0x000010c2      0x19a USART_data.o
+
+.debug_frame    0x00000000      0x20c
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x44 Debouncer.o
+ .debug_frame   0x00000044       0x4c LED_Sterowanie.o
+ .debug_frame   0x00000090      0x108 main.o
+ .debug_frame   0x00000198       0x34 Timers.o
+ .debug_frame   0x000001cc       0x40 USART_data.o
+
+.debug_str      0x00000000     0x17a2
+ *(.debug_str)
+ .debug_str     0x00000000      0xc0f E:/Programy/Microchip Studio/7.0/Packs/Atmel/ATtiny_DFP/1.9.337/gcc/dev/attiny3217/avrxmega3/crtattiny3217.o
+ .debug_str     0x00000c0f      0x2d3 Debouncer.o
+                                0x30c (size before relaxing)
+ .debug_str     0x00000ee2       0xed LED_Sterowanie.o
+                                0x3b2 (size before relaxing)
+ .debug_str     0x00000fcf      0x2fb main.o
+                                0x6e1 (size before relaxing)
+ .debug_str     0x000012ca      0x2a9 Timers.o
+                                0x7b9 (size before relaxing)
+ .debug_str     0x00001573      0x22f USART_data.o
+                                0x62a (size before relaxing)
+
+.debug_loc      0x00000000      0x418
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x150 Debouncer.o
+ .debug_loc     0x00000150       0x5e LED_Sterowanie.o
+ .debug_loc     0x000001ae      0x1f4 main.o
+ .debug_loc     0x000003a2       0x76 USART_data.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000       0x98
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x20 Debouncer.o
+ .debug_ranges  0x00000020       0x18 LED_Sterowanie.o
+ .debug_ranges  0x00000038       0x30 main.o
+ .debug_ranges  0x00000068       0x18 Timers.o
+ .debug_ranges  0x00000080       0x18 USART_data.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(Kaleta_Sadowski_projekt_inz.elf elf32-avr)
+LOAD linker stubs

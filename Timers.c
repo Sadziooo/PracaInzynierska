@@ -1,0 +1,16 @@
+#include "Timers.h"
+
+void Fun_TCA0_Init(void)
+{
+	TCA0.SINGLE.PER = 1250; // 1ms tick
+	TCA0.SINGLE.CTRLA = TCA_SINGLE_CLKSEL_DIV16_gc | TCA_SINGLE_ENABLE_bm;
+	TCA0.SINGLE.INTCTRL = TCA_SINGLE_OVF_bm;
+}
+
+void Fun_PIT_Init(void)
+{
+	RTC.CLKSEL = RTC_CLKSEL_INT32K_gc;
+	RTC.PITINTCTRL = RTC_PI_bm;
+	RTC.PITCTRLA = RTC_PERIOD_CYC16384_gc | RTC_PITEN_bm;
+}
+
